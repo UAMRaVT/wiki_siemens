@@ -7,5 +7,5 @@
 
 
 ## Requirements
-1. **[Support Packages for the hardware catalog in the TIA Portal](https://support.industry.siemens.com/cs/document/72341852/support-packages-for-the-hardware-catalog-in-the-tia-portal-(hsp)?dti=0&lc=en-AT)**
+1. **[Support Packages for the hardware catalog in the TIA Portal](https://support.industry.siemens.com/cs/document/72341852/support-packages-for-the-hardware-catalog-in-the-tia-portal-(hsp)?dti=0&lc=en-AT)**: This might not be necessary anymore.
 2. **[Startdrive](https://support.industry.siemens.com/cs/document/109771710/sinamics-startdrive-v16?dti=0&lc=en-AT)**
